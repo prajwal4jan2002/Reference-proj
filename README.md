@@ -1,2 +1,3 @@
 # Reference-proj
-STM32 project
+STM32 project file
+
